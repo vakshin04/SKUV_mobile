@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_flash"
+        android:icon="@drawable/ic_flash"
+        android:title="Flash" />
+
+    <item
+        android:id="@+id/navigation_vibration"
+        android:icon="@drawable/ic_vibration"
+        android:title="Vibration" />
+
+    <item
+        android:id="@+id/navigation_analyzer"
+        android:icon="@drawable/ic_analyzer"
+        android:title="Analyzer" />
+</menu>

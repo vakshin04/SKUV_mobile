@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flash" type="id" />
+    <item name="analyzer" type="id" />
+    <item name="vibration" type="id" />
+    <item name="fab_custom_theme" type="id" />
+</resources>

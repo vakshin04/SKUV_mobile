@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SKUV</string>
+    <string name="usual">Danger: 0</string>
+    <string name="switch_side">Switch_side</string>
+</resources>
